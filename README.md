@@ -9,6 +9,7 @@ In tackling this, I used 70 elements conisisting of the English alphabets, numbe
 To make its security much more efficient, a complex sequence for my encryption list was formed.  
 
 An encryption list is a list that contains the elements in which the Ceasar's encryption will be performed on by just shifting elements  in that list based on the value of the shift key. 
+
 Encryption list was formed by forming a sequence of:  
 lowercase alphabets  + numbers + Uppercase alphabets + numbers + Uppercase alphabets and symbols + numbers + Lowercase alphabets and symbols. 
 This encryption list makes it more complicated to crack encrypted text, has the correct sequence of the encryption list must be gotten first.  
